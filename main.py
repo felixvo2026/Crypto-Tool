@@ -39,4 +39,5 @@ try:
     while True:
         main()
 except KeyboardInterrupt:
+    print("\nProgramm beendet.")
     sys.exit()
